@@ -1,0 +1,91 @@
+{
+	"c2array":true,
+	"size":[12, 5, 1],
+	"data":[
+		[
+			[0],
+			["Mazzaella"],
+			[300],
+			["hoja de"],
+			["hojas de"]
+		],
+		[
+			[1],
+			["Sal de Mar"],
+			[200],
+			["pizca de"],
+			["pizcas de"]
+		],
+		[
+			[2],
+			["Queso de Calamar"],
+			[100],
+			["trozo de"],
+			["trozos de"]
+		],
+		[
+			[3],
+			["Polvo de Luna"],
+			[100],
+			["pizca de"],
+			["pizcas de"]
+		],
+		[
+			[4],
+			["Espuma de Ola"],
+			[100],
+			["pizca de"],
+			["pizcas de"]
+		],
+		[
+			[5],
+			["Canto de Ballena"],
+			[100],
+			["gota de"],
+			["gotas de"]
+		],
+		[
+			[6],
+			["Ulva"],
+			[100],
+			["hoja de"],
+			["hojas de"]
+		],
+		[
+			[7],
+			["Pelillo"],
+			[100],
+			["rama de"],
+			["ramas de"]
+		],
+		[
+			[8],
+			["Almeja"],
+			[100],
+			["unidad de"],
+			["unidades de"]
+		],
+		[
+			[9],
+			["Tégula"],
+			[100],
+			["concha de"],
+			["conchas de"]
+		],
+		[
+			[10],
+			["Ostión"],
+			[100],
+			["unidad de"],
+			["unidades de"]
+		],
+		[
+			[11],
+			["Huiro"],
+			[100],
+			["unidad de"],
+			["unidades de"]
+		]
+
+	]
+}

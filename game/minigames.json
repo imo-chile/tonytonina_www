@@ -1,0 +1,88 @@
+{
+
+	"comment1": "[id minijuego]",
+	"comment2": "[Nombre minijuego]",
+	"comment3": "[Instrucciones minijuego]",
+	"comment4": "[tiempo en segundos]",
+	"comment5": "[cantidad de ingredientes premio]",
+	"comment6": "[tipo de juego (referencia)]",
+	"comment7": "[modalidad (normal, super, ultra...)]",
+	"comment8": "[score limit]",
+
+	"c2array":true,
+	"size":[7, 8, 1],
+	"data":[
+		[
+			[0],
+			["Memoria"],
+			["Busca los pares de cartas iguales antes que termine el tiempo."],
+			[120],
+			[5],
+			["memoria"],
+			["Normal"],
+			[0]
+		],
+		[
+			[1],
+			["Super Memoria"],
+			["Busca los pares de cartas iguales antes que termine el tiempo."],
+			[200],
+			[10],
+			["memoria"],
+			["Super"],
+			[0]
+		],
+		[
+			[2],
+			["Carta Solitaria"],
+			["Busca la carta que esté sin una compañera. Encuentra 10 cartas solitarias para ganar."],
+			[100],
+			[3],
+			["carta_diferente"],
+			["Normal"],
+			[10]
+		],
+		[
+			[3],
+			["Carta Super Solitaria"],
+			["Busca la carta que esté sin una compañera. Encuentra 10 cartas solitarias para ganar."],
+			[130],
+			[10],
+			["carta_diferente"],
+			["Super"],
+			[10]
+		],
+		[
+			[4],
+			["Carta Ultra Solitaria"],
+			["Busca la carta que esté sin una compañera. Encuentra 10 cartas solitarias para ganar."],
+			[160],
+			[20],
+			["carta_diferente"],
+			["Ultra"],
+			[10]
+		],
+		[
+			[5],
+			["Rompecabezas"],
+			["Arma el rompecabezas antes que termine el tiempo."],
+			[200],
+			[7],
+			["puzzle"],
+			["Normal"],
+			[0]
+		],
+		[
+			[6],
+			["Lluvia de comida"],
+			["Recoge el ingrediente indicado antes que termine el tiempo."],
+			[60],
+			[5],
+			["agarra_ingredientes"],
+			["Normal"],
+			[20]
+		]
+
+
+	]
+}

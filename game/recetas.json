@@ -1,0 +1,199 @@
+{
+	"comment1":"[id receta]",
+	"comment2":"[Nombre receta]",
+	"comment3":"[Descripcion receta]",
+	"comment4":"[Ingredientes] ej [0x6|1x1|2x1] = 6 ingrediente0, 1 de ingrediente1 y 1 de ingrediente2",
+	"comment5":"Ejemplo 2 [0x6|1x0] = 6 ingrediente0 y es necesario el utensilio1",
+
+	"c2array":true,
+	"size":[31, 4, 1],
+	"data":[
+		[
+			[0],
+			["Ensalada Neptuno"],
+			["Descripcion Receta 1"],
+			["0x6|1x1|2x1"]
+		],
+		[
+			[1],
+			["Suspiro Lunero"],
+			["Descripcion Receta 2"],
+			["3x1|4x1|5x1"]
+		],
+		[
+			[2],
+			["Consomé de Almejas"],
+			["Descripcion Receta 2"],
+			["8x4|4x2|1x1"]
+		],
+		[
+			[3],
+			["Consomé de Ostiones"],
+			["Descripcion Receta 2"],
+			["10x4|4x2|1x1"]
+		],
+		[
+			[4],
+			["Consomé Poseidón"],
+			["Descripcion Receta 2"],
+			["9x4|4x3|1x1"]
+		],
+		[
+			[5],
+			["Consomé Verde"],
+			["Descripcion Receta 2"],
+			["6x2|7x2|4x2"]
+		],
+		[
+			[6],
+			["Ensalada Gourmet"],
+			["Descripcion Receta 2"],
+			["0x4|10x4|1x1"]
+		],
+		[
+			[7],
+			["Ensalada Poseidón"],
+			["Descripcion Receta 2"],
+			["0x4|9x4|1x1"]
+		],
+		[
+			[8],
+			["Ensalada Tritón"],
+			["Descripcion Receta 2"],
+			["0x4|8x4|1x1"]
+		],
+		[
+			[9],
+			["Ensalada Verde"],
+			["Descripcion Receta 2"],
+			["6x4|7x4|1x1"]
+		],
+		[
+			[10],
+			["Sopa de Almejas"],
+			["Descripcion Receta 2"],
+			["8x3|1x2"]
+		],
+		[
+			[11],
+			["Sopa Trentrén"],
+			["Descripcion Receta 2"],
+			["10x3|1x2"]
+		],
+		[
+			[12],
+			["Sopa Poseidón"],
+			["Descripcion Receta 2"],
+			["9x3|1x2"]
+		],
+		[
+			[13],
+			["Sopa Caicai"],
+			["Descripcion Receta 2"],
+			["6x3|7x4|1x2"]
+		],
+		[
+			[14],
+			["Cupcake Marino"],
+			["Descripcion Receta 2"],
+			["3x3|5x1|4x5"]
+		],
+		[
+			[15],
+			["Cupcake del Pacífico"],
+			["Descripcion Receta 2"],
+			["0x3|5x3|4x4"]
+		],
+		[
+			[16],
+			["Cupcake Lunero"],
+			["Descripcion Receta 2"],
+			["3x4|5x2|4x4"]
+		],
+		[
+			[17],
+			["Pizza Oceánica"],
+			["Descripcion Receta 2"],
+			["11x3|7x3|2x7"]
+		],
+		[
+			[18],
+			["Pizza Intermareal"],
+			["Descripcion Receta 2"],
+			["11x3|0x3|2x7"]
+		],
+		[
+			[19],
+			["Pizza de Humboldt"],
+			["Descripcion Receta 2"],
+			["8x8|7x8|2x7"]
+		],
+		[
+			[20],
+			["Pizza Doble Mazzaella"],
+			["Descripcion Receta 2"],
+			["0x8|1x2|2x7"]
+		],
+		[
+			[21],
+			["Queque Marino"],
+			["Descripcion Receta 2"],
+			["0x7|1x2|5x5"]
+		],
+		[
+			[22],
+			["Queque Lunero"],
+			["Descripcion Receta 2"],
+			["3x10|5x5|1x1"]
+		],
+		[
+			[23],
+			["Cheesecake de Pelillo"],
+			["Descripcion Receta 2"],
+			["7x10|2x5|3x4"]
+		],
+		[
+			[24],
+			["Sandwich Doble Huiro"],
+			["Descripcion Receta 2"],
+			["11x10|1x1|2x2"]
+		],
+		[
+			[25],
+			["Sandwich Diet"],
+			["Descripcion Receta 2"],
+			["6x5|7x5|5x3"]
+		],
+		[
+			[26],
+			["Chacarero de Almejas"],
+			["Descripcion Receta 2"],
+			["8x4|7x7|1x1"]
+		],
+		[
+			[27],
+			["Sandwich Vegetariano"],
+			["Descripcion Receta 2"],
+			["0x5|7x5|5x4"]
+		],
+		[
+			[28],
+			["Sandwich Caleuche"],
+			["Descripcion Receta 2"],
+			["8x5|0x5|1x1"]
+		],
+		[
+			[29],
+			["Sandwich Doble Ostión"],
+			["Descripcion Receta 2"],
+			["10x10|1x1|2x1"]
+		],
+		[
+			[30],
+			["Chacarero Dos Algas"],
+			["Descripcion Receta 2"],
+			["11x5|6x5|1x1"]
+		]
+
+	]
+}
